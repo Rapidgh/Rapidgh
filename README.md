@@ -7,6 +7,6 @@
 🎓 Diploma in Business Information Tedchnology student at Palm University College, Ghana
 
 🔭 Currently studying Mobile App Development and some few others
-📫 Reach me at: dakyeremeh@palm.edu.gh
+📫 Reach me at: derrickkyeremeh369@gmail.com
 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&width=600&lines=Network+Architect;React+%26+Node.js+Lover;Always+Seeking+To+Make+An+Impact;Tech+Learner+%26+Innovator" alt="Typing Animation" />
