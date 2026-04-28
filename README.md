@@ -2,7 +2,7 @@
 🌱 I’m currently learning Object Oriented Programming and abit of mobile development.
 👯 I’m looking to collaborate on more OOP and Web Technology projects.
 
-📫 How to reach me: dakyeremeh@palm.edu.gh
+📫 How to reach me: derrickkyeremeh369@gmail.com
 😄 Pronouns: He/Him/His -->
 🎓 Diploma in Business Information Tedchnology student at Palm University College, Ghana
 
